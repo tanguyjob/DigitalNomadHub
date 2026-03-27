@@ -2,10 +2,10 @@
 
 namespace DigitalNomadHub.Models
 {
-    public class Place
+    public class Country
     {
         [Key]
-        public int Place_Id { get; set; }
+        public int CountryId { get; set; }
         [Required]
         public String Name { get; set; }
     }

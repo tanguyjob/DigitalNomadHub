@@ -1,0 +1,26 @@
+﻿@model List<Country>
+<div class="container">
+
+    <table class="table table-bordered table-striped">
+        <div class="row pt-4">
+            <div class="col-6">
+                <h2 class="text-primary">
+                    Category List
+                </h2>
+            </div>
+        </div>
+        <thead>
+            <tr>
+                <th>Country Name</th>    
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var obj in Model.OrderBy(x=>x.Name))
+            {
+                <tr>
+                    <td>@obj.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
