@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalNomadHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b19ac2592721cf38db599485ad5a12f61b370d6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f47b8a55d562bf0a10e17e0c9aa7e9d3d7c24ec3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalNomadHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalNomadHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

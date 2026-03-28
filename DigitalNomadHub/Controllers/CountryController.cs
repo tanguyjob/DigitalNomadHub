@@ -15,5 +15,10 @@ namespace DigitalNomadHub.Controllers
             List<Country> objCountryList = _db.Countries.ToList();
             return View(objCountryList);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }
