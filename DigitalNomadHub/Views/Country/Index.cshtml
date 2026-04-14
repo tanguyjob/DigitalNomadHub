@@ -1,4 +1,10 @@
 ﻿@model List<Country>
+@if(TempData["Success"] != null)
+{
+    <h2>@TempData["Success"]</h2>
+}
+
+
 <div class="container">
     <div class="row pt-4 pb-3">
         <div class="col-6">
@@ -15,7 +21,8 @@
     <table class="table table-bordered table-striped">       
         <thead>
             <tr>
-                <th>Country Name</th>    
+                <th>Country Name</th>  
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -23,6 +30,18 @@
             {
                 <tr>
                     <td>@obj.Name</td>
+                    <td class="text-end">
+                        <div class="w-50 btn-group" role="group">
+                           
+                                <a asp-controller="Country" asp-action="Edit" asp-route-id="@obj.CountryId" class="btn btn-primary mx-2">
+                                    <i class="bi bi-pencil-square"></i> Edit
+                                </a>
+                            <a asp-controller="Country" asp-action="Delete" asp-route-id="@obj.CountryId" class="btn btn-danger mx-2">
+                                    <i class="bi bi-trash-fill"></i> Delete
+                                </a>
+                           
+                        </div>
+                    </td>
                 </tr>
             }
         </tbody>

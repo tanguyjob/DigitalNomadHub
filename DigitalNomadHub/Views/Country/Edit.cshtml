@@ -1,20 +1,21 @@
 ﻿@model Country
 
 <form method="POST">
+    <input asp-for="CountryId" hidden />
     <div class="border pt-3 mt-4">
         <div class="row pb-2">
-            <h2 class="text-primary">Create Country</h2>
+            <h2 class="text-primary">Edit Country</h2>
             <hr />
         </div>
         <div class="mb-3 row p-1">
             <label asp-for="Name" class="p-0">Country Name</label>
-            <input  asp-for="Name" class="form-control" />
+            <input asp-for="Name" class="form-control" />
             <span asp-validation-for="Name" class="text-danger"></span>
         </div>
-        
+
         <div class="row">
             <div class="col-6 col-md-3">
-                <button type="submit" class="btn btn-primary form-control">Create</button>
+                <button type="submit" class="btn btn-primary form-control">Update</button>
             </div>
             <div class="col-6 col-md-3">
                 <a asp-controller="Country" asp-action="Index" class="btn btn-secondary form-control">

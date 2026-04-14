@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\digitalnomadhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\digitalnomadhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\migrations\\20260319152208_changeplaceforcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\digitalnomadhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\digitalnomadhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|c:\\users\\tangu\\source\\repos\\digitalnomadhub\\digitalnomadhub\\migrations\\20260319160948_seedcountrytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E013F384-7C61-4A06-8713-0042694F39C9}|DigitalNomadHub\\DigitalNomadHub.csproj|solutionrelative:digitalnomadhub\\migrations\\20260319160948_seedcountrytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -87,73 +99,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Create.cshtml",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Country\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Create.cshtml*",
-              "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-27T18:04:55.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T17:06:43.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260319152208_changePlaceForCountry.cs",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
-              "RelativeToolTip": "DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T15:22:08.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQ1AAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-27T07:18:18.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DigitalNomadHub",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\DigitalNomadHub.csproj",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\DigitalNomadHub.csproj",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\DigitalNomadHub.csproj",
-              "RelativeToolTip": "DigitalNomadHub\\DigitalNomadHub.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-11T16:51:07.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Index.cshtml",
               "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Country\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Index.cshtml",
-              "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Index.cshtml*",
+              "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-11T16:59:27.324Z",
               "EditorCaption": ""
@@ -166,10 +117,96 @@
               "RelativeDocumentMoniker": "DigitalNomadHub\\Controllers\\CountryController.cs",
               "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Controllers\\CountryController.cs",
               "RelativeToolTip": "DigitalNomadHub\\Controllers\\CountryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwGIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T16:58:22.677Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Models\\Country.cs",
+              "RelativeToolTip": "DigitalNomadHub\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T23:05:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260319152208_changePlaceForCountry.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
+              "RelativeToolTip": "DigitalNomadHub\\Migrations\\20260319152208_changePlaceForCountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T15:22:08.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Create.cshtml",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Country\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Create.cshtml",
+              "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-27T18:04:55.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "DigitalNomadHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQ1AAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-27T07:18:18.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Country\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Edit.cshtml",
+              "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T13:12:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DigitalNomadHub\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:02:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Country\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Delete.cshtml",
+              "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T05:53:27.365Z"
             },
             {
               "$type": "Document",
@@ -185,19 +222,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\Models\\Country.cs",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Models\\Country.cs",
-              "RelativeToolTip": "DigitalNomadHub\\Models\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T23:05:20.883Z"
+              "DocumentIndex": 8,
+              "Title": "DigitalNomadHub",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\DigitalNomadHub.csproj",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\DigitalNomadHub.csproj",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\DigitalNomadHub.csproj",
+              "RelativeToolTip": "DigitalNomadHub\\DigitalNomadHub.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T16:51:07.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigitalNomadHub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T17:06:43.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DigitalNomadHub\\Controllers\\HomeController.cs",
@@ -209,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DigitalNomadHub\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -221,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "20260319160948_SeedCountryTable.cs",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Migrations\\20260319160948_SeedCountryTable.cs",
               "RelativeDocumentMoniker": "DigitalNomadHub\\Migrations\\20260319160948_SeedCountryTable.cs",
@@ -233,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "DigitalNomadHub\\Models\\ErrorViewModel.cs",
@@ -245,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\appsettings.json",
               "RelativeDocumentMoniker": "DigitalNomadHub\\appsettings.json",
@@ -257,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Program.cs",
               "RelativeDocumentMoniker": "DigitalNomadHub\\Program.cs",
@@ -269,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "DigitalNomadHub.csproj",
               "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\DigitalNomadHub.csproj",
               "RelativeDocumentMoniker": "DigitalNomadHub\\DigitalNomadHub.csproj",
