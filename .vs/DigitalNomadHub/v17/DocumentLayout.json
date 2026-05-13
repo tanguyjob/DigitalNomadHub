@@ -104,22 +104,9 @@
               "RelativeDocumentMoniker": "DigitalNomadHub\\Views\\Country\\Index.cshtml",
               "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Views\\Country\\Index.cshtml",
               "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-11T16:59:27.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "DigitalNomadHub\\Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "DigitalNomadHub\\Controllers\\CountryController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwGIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T16:58:22.677Z",
               "EditorCaption": ""
             },
             {
@@ -132,8 +119,7 @@
               "RelativeToolTip": "DigitalNomadHub\\Models\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T23:05:20.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T23:05:20.883Z"
             },
             {
               "$type": "Document",
@@ -181,8 +167,7 @@
               "RelativeToolTip": "DigitalNomadHub\\Views\\Country\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-13T13:12:35.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T13:12:35.933Z"
             },
             {
               "$type": "Document",
@@ -207,6 +192,18 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-14T05:53:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "DigitalNomadHub\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\tangu\\source\\repos\\DigitalNomadHub\\DigitalNomadHub\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "DigitalNomadHub\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwGIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:58:22.677Z"
             },
             {
               "$type": "Document",
