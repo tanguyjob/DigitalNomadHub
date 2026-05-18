@@ -88,7 +88,6 @@ C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstra
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -123,3 +122,4 @@ C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\jquery\d
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\tangu\source\repos\DigitalNomadHub\DigitalNomadHub\wwwroot\lib\jquery\LICENSE.txt

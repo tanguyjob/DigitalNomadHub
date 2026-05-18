@@ -61,7 +61,7 @@ namespace DigitalNomadHub.Controllers
             {
                 _db.Countries.Update(obj);
                 _db.SaveChanges();
-                TempData["Success"] = "Coutry updated successfully";
+                TempData["success"] = "Coutry updated successfully";
                 return RedirectToAction("Index", "Country");
             }
             return View();
@@ -96,7 +96,7 @@ namespace DigitalNomadHub.Controllers
                 { return NotFound(); }
             _db.Countries.Remove(obj);
             _db.SaveChanges();
-            TempData["Success"] = "Coutry deleted successfully";
+            TempData["success"] = "Coutry deleted successfully";
             return RedirectToAction("Index");
         }
     }
